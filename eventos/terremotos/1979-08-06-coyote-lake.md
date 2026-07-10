@@ -75,6 +75,39 @@ Se compararon registros de dos sitios separados por solo 2 km:
 - Evidencia temprana de que la **caracterización del suelo** (tipo y espesor de depósitos) es fundamental para el diseño sismorresistente
 - Respalda la necesidad de clasificar los sitios por sus condiciones geotécnicas en los códigos de construcción
 
+## Reflexiones más relevantes del evento
+
+### 1. El suelo manda — no solo la magnitud del sismo
+- Un sismo moderado (Mw 5.7) generó amplificaciones de ×2 a ×3 dependiendo del tipo de suelo
+- La misma onda sísmica produjo efectos completamente distintos a solo 2 km de distancia según la geología local
+- **Lección**: La magnitud por sí sola no predice el daño; el suelo es determinante
+
+### 2. Daño no estructural como patrón dominante en sismos moderados
+- La mayoría del daño fue no estructural: chimeneas, ventanas, contenidos internos
+- Solo 5 edificios en Gilroy sufrieron daño estructural (vigas en Ford's Department Store, colapso de techo en oficina de abogados en Hollister)
+- **Lección**: En sismos moderados, los elementos no estructurales son los más vulnerables y representan la mayor pérdida económica
+
+### 3. Inestabilidad de taludes inducida por sismos
+- Reactivó un deslizamiento preexistente en la orilla noreste del Lago Anderson
+- Fisura de 20 m de largo con desplazamientos de 9 mm vertical y 18 mm horizontal
+- Ubicado a 9 km del epicentro pero a solo 100 m de la traza de la Falla de Calaveras
+- **Lección**: Los sismos moderados pueden reactivar deslizamientos preexistentes; la cercanía a fallas activas agrava el riesgo geotécnico de laderas
+
+### 4. La instrumentación densa cambió el entendimiento de la ruptura
+- Dos acelerógrafos dentro de la zona de falla capturaron el proceso de ruptura en tiempo real
+- Permitió distinguir que el deslizamiento varía con la profundidad (mayor en zonas someras)
+- **Lección**: Sin instrumentación adecuada, las suposiciones de diseño pueden subestimar o sobreestimar la demanda sísmica real
+
+### 5. Base empírica para la clasificación de sitios en códigos
+- Los datos de Coyote Lake fueron parte de la evidencia que llevó a incorporar los coeficientes de sitio **Fa** (período corto) y **Fv** (período largo) en las provisiones NEHRP de 1994 y 1997
+- Ambos coeficientes dependen de la clase de sitio y del nivel de peligro sísmico en roca
+- **Lección**: Este evento contribuyó directamente a que los códigos de construcción exijan clasificar el suelo antes de diseñar
+
+### 6. Los modelos lineales tienen límites
+- El modelo lineal predijo bien la forma de onda pero subestimó amplitudes pico
+- La discrepancia no se explica solo por distancia; el enfocamiento por geometría del basamento también importa
+- **Lección**: Para diseño estructural, los modelos simplificados son un punto de partida, pero la geometría 3D del basamento rocoso puede generar amplificaciones no previstas
+
 ## Referencias
 
 - USGS Open-File Report 79-385: Compilación de registros de movimiento fuerte
